@@ -1,3 +1,4 @@
+!pip install gradio
 import gradio as gr
 import numpy as np
 from transformers import pipeline
